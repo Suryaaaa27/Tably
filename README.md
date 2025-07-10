@@ -36,7 +36,7 @@ Tab.ly is a lightweight and powerful Android-based restaurant management system 
 
 | Login Page | Admin Panel |
 |------------|--------------|
-| ![login](<img width="1080" height="2400" alt="Screenshot_20250710_232650" src="https://github.com/user-attachments/assets/3fe2a7d5-7051-4cf1-96db-75d34b16cc8e" />) ![admin](<img width="1080" height="2400" alt="Screenshot_20250710_232550" src="https://github.com/user-attachments/assets/f36d5f85-89ff-4489-a169-eee516fe2981" />) |
+| ![login](<img width="1080" height="2400" alt="Screenshot_20250710_232650" src="https://github.com/user-attachments/assets/3fe2a7d5-7051-4cf1-96db-75d34b16cc8e" />)| ![admin](<img width="1080" height="2400" alt="Screenshot_20250710_232550" src="https://github.com/user-attachments/assets/f36d5f85-89ff-4489-a169-eee516fe2981" />) |
 
 ---
 
