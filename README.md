@@ -1,6 +1,6 @@
 # 📱 Tably – Smart Restaurant Order Management App
 
-Tab.ly is a lightweight and powerful Android-based restaurant management system that streamlines table allocation, order taking, and kitchen coordination in real-time. It is designed with role-based access to support a multi-user environment — ideal for restaurants, cafes, or dine-in chains.
+Tably is a lightweight and powerful Android-based restaurant management system that streamlines table allocation, order taking, and kitchen coordination in real-time. It is designed with role-based access to support a multi-user environment — ideal for restaurants, cafes, or dine-in chains.
 
 ---
 
